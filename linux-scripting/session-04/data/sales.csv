@@ -1,0 +1,16 @@
+date,region,category,units,unit_price
+2026-09-01,North,Hardware,12,25.50
+2026-09-01,South,Software,4,120.00
+2026-09-02,East,Hardware,7,25.50
+2026-09-02,West,Services,2,300.00
+2026-09-03,North,Software,6,120.00
+2026-09-03,South,Hardware,9,24.00
+2026-09-04,East,Services,1,300.00
+2026-09-04,West,Software,5,120.00
+2026-09-05,North,Hardware,3,25.50
+2026-09-05,South,Services,2,300.00
+2026-09-06,East,Software,8,115.00
+2026-09-06,West,Hardware,10,24.00
+2026-09-07,North,Services,1,310.00
+2026-09-07,South,Hardware,4,25.50
+2026-09-08,East,Software,3,120.00

@@ -1,0 +1,6 @@
+2026-10-15 07:00:00 INFO Server listening on port 8080
+2026-10-15 07:30:12 ERROR Upstream returned 502
+2026-10-16 08:45:05 INFO Health check passed
+2026-10-17 09:00:00 ERROR Upstream returned 502
+2026-10-17 09:00:30 ERROR Upstream returned 503
+2026-10-18 06:00:00 INFO Log rotated
