@@ -1,0 +1,3 @@
+Functions keep code organized and reusable.
+Local variables stay inside the function.
+Arrays hold lists of values, and associative arrays map keys to values.

@@ -1,0 +1,10 @@
+2026-10-10 08:00:01 INFO Service started
+2026-10-10 08:05:12 WARN Cache is 80% full
+2026-10-10 08:10:44 ERROR Database connection timed out
+2026-10-10 08:11:02 ERROR Database connection timed out
+2026-10-11 09:30:00 INFO Nightly job finished
+2026-10-12 12:00:00 ERROR Disk write failed on /var/data
+2026-10-13 14:20:33 INFO User login succeeded
+2026-10-14 16:45:10 ERROR Database connection timed out
+2026-10-15 10:00:00 INFO Backup completed
+2026-10-16 11:11:11 WARN Slow query took 4.2s
